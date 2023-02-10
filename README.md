@@ -1,3 +1,7 @@
+# DESCRIPTION
+
+In this project i stared to learn some react concepts like props, routing, stats, context management
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
